@@ -42,8 +42,8 @@ source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
 Roadmap
 This project is still under active development. The following improvements are planned for future releases:
 
-Support for multi-class classification.
-Image preprocessing and augmentation for better model performance.
-Enhanced UI/UX for better user experience.
-Model evaluation features to predict new images.
-Performance optimization and testing with larger datasets
+• Support for multi-class classification.
+• Image preprocessing and augmentation for better model performance.
+• Enhanced UI/UX for better user experience.
+• Model evaluation features to predict new images.
+• Performance optimization and testing with larger datasets
