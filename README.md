@@ -37,7 +37,8 @@ cd ModelForge
 source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
 3. Install the necessary dependencies: pip install -r requirements.txt
 
-#####################################################################################################################################
+#####################################################
+
 Roadmap
 This project is still under active development. The following improvements are planned for future releases:
 
