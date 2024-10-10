@@ -1,4 +1,5 @@
-ModelForge
+#ModelForge
+
 ModelForge is an ongoing project aimed at building a simple and efficient image classification model training application using Flask, TensorFlow, and Keras. The application allows users to upload images, and it uses those images to train a binary classification model in real-time.
 
 This project is being developed in phases, with each feature and functionality being implemented incrementally.
