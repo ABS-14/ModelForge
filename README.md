@@ -30,5 +30,18 @@ Upcoming Features
  Create documentation on how to set up the app locally.
  Write a step-by-step tutorial on how to use the app for beginners in machine learning.
 Installation
-1. Clone the repository: git clone https://github.com/your-username/ModelForge.git
+1. Clone the repository: git clone https://github.com/ABS-14/ModelForge.git
 cd ModelForge
+2. Set up a virtual environment (optional but recommended): python -m venv venv
+source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
+3. Install the necessary dependencies: pip install -r requirements.txt
+
+#####################################################################################################################################
+Roadmap
+This project is still under active development. The following improvements are planned for future releases:
+
+Support for multi-class classification.
+Image preprocessing and augmentation for better model performance.
+Enhanced UI/UX for better user experience.
+Model evaluation features to predict new images.
+Performance optimization and testing with larger datasets
